@@ -1,0 +1,92 @@
+name: heal_together
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel: ^0.0.1
+  numberpicker: ^0.1.4
+  cloud_firestore: ^0.7.3
+  country_code_picker: ^0.2.2
+  circle_indicator: ^0.0.7
+  flutter_statusbarcolor: "^0.0.3"
+  flutter_calendar: "^0.0.4"
+  firebase_database: "^1.0.2"
+  firebase_core: any
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/facebook.png
+    - images/google.png
+    - images/background3.jpg
+    - images/background2.jpg
+    - images/background.jpg
+    - images/facebookrect.png
+    - images/googlerect.png
+    - images/linkedinrect.png
+    - images/twitterrect.png
+    - images/doctor.png
+    - images/family.png
+    - images/network.png
+    - images/doctor2.png
+    - images/twitterrect.png
+    - images/prescription.png
+    - images/treatment.png
+    - images/student.png
+    - images/cardiogram.png
+    - images/medicine2.png
+    - images/nurse.png
+    - images/twitterrect.png
+    - images/prescription2.png
+    - images/pills.png
+    - images/like.png
+    - images/moon.png
+    - images/sport-shoes.png
+    - images/co2.png
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+   - family: serifa
+     fonts:
+       - asset: fonts/serifat.ttf
+
+   - family: century
+     fonts:
+       - asset: fonts/CenturyGothic.ttf
+
+   - family: lytiga
+     fonts:
+       - asset: fonts/lytiga.otf
+
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages

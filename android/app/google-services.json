@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1054031663005",
+    "firebase_url": "https://heal-together-372ef.firebaseio.com",
+    "project_id": "heal-together-372ef",
+    "storage_bucket": "heal-together-372ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054031663005:android:a962ac56bff9fae4",
+        "android_client_info": {
+          "package_name": "in.genecorp.healtogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054031663005-gutjbr42b5pdipmmgmtn74hnps7eeo2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.genecorp.healtogether",
+            "certificate_hash": "a9bde7d8422265b69b0d59f3fbad39086e008a7f"
+          }
+        },
+        {
+          "client_id": "1054031663005-dlmiijbkrlujbq2f950na334k9k3ncs7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1054031663005-dlmiijbkrlujbq2f950na334k9k3ncs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFb8lrn25l2vXA2AZzw-vEsJcT-sCXbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054031663005-dlmiijbkrlujbq2f950na334k9k3ncs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
